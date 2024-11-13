@@ -1,0 +1,16 @@
+Matias Cuervo y Andres Sanchez Albertti
+
+a- Sincronizando el Fork
+b- Si, puede.
+
+c- Si puede.
+d- No.
+e - 
+para actualizar el fork utilizamos 
+
+*git remote add compañero <URL_del_repositorio_de_tu_compañero>
+*git remote -v
+*git fetch compañero
+*git checkout main
+*git merge compañero/main
+*git push origin main
